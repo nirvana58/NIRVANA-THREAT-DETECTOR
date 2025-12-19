@@ -110,7 +110,7 @@ setup() {
     # Create Python files if they don't exist
     create_python_files
     
-    log "Setup complete! hurray"
+    log "Setup complete!"
     sleep 2
 }
 
